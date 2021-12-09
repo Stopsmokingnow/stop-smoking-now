@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8">
+<title>Come Smettere di Fumare</title>
+<link re="icon" type="image/png" href="immagini/NoCigarettes.png"/>
+</head>
+<main> <p> <h3> Questo sito vuole essere un punto di riferimento per chi vuole smettere di fumare </h3> </p>
+
+<p> Smettere di fumare è possibile ed è la miglior decisione che tu possa prendere! </p>
+
+<p> Audio - Musica Rilassante </p>
+<Audio src="videoplayback.m4a" Autoplay controls> 
+</audio>
+
+<p> Video - Spegni L'ultima </p>
+<video src="FabioVoloPerNoSmokingBeHappy.mp4" width="500" controls> 
+</video> <br>
+
+<p> Le percentuali del fumo in Italia </p>
+
+<table border="1">
+<tr><th> Età </th><th> Percentuale </th></tr>
+<tr><th> 18-24 </th><th> 19.65% </th></tr>
+<tr><th> 25-44 </th><th> 29.15%  </th></tr>
+<tr><th> 45-64 </th><th> 25.20%  </th></tr>
+<tr><th> +65 anni </th><th> 10.05 % </th></tr>
+</table> <br>
+
+I benefici si iniziano a vedere già dopo poco tempo:
+</p>
+<ol>
+<li>Dopo 20 minuti la frequenza cardiaca e la pressione del sangue si riducono</li>
+<li>Dopo 12 ore il livello di monossido di carbonio nel sangue diminuisce e torna a livelli normali.</li>
+<li>Dopo 2-12 settimane la circolazione del sangue migliora così come le funzioni polmonari</li>
+<li>Dopo 1-9 mesi diminuiscono la tosse e il respiro corto.</li>
+<li>Dopo un anno il rischio di infarto diventa la metà di quello di un fumatore.</li>
+<li>Dopo 5-15 anni dopo il rischio di ictus diventa uguale a quello di un non fumatore.</li>
+<li>Dopo 10 anni il rischio di tumore ai polmoni diminuisce fino alla metà e si riduce anche il rischio di tumori alla bocca, alla gola, all’esofago, alla vescica, alla cervice uterina e al pancreas.</li>
+<li>Dopo 15 anni il rischio di infarto diventa uguale a quello di un non fumatore.</li>
+</ol>
+
+<p> Informa le persone che ti stanno vicine della tua decisione, ti potranno supportare al raggiungimento del tuo obbietivo. 
+Se non riesci a smettere da solo puoi rivolegerti al tuo medico o ad uno specialista per aumentare le possibilità di riuscita. E ricorda che l'Istituto superiore di sanità mette a disposizione il numero verde 800 554 088, anonimo e gratuito, per parlare con esperti </p>
+<p> <nav> Guarda i benefici se decidi di smettere subito :) </nav> </p>
+
+<p> Di seguito alcuni link utili </p>
+
+<a target="_blank" href="https://www.fondazioneveronesi.it/progetti/no-smoking-be-happy">Fondazione Veronesi-Don't Smoke Be Happy</a> <br>
+
+<a target="_blank" href="https://www.salute.gov.it/portale/fumo/dettaglioContenutiFumo.jsp?lingua=italiano&id=5581&area=fumo&menu=vuoto"> 
+<img scr="img/Governo Ministero salute.png" alt="Ministero Logo"/></a>
+
+<figure> 
+<img src="StopSmoking.jpg" width="50%" alt="StopSmoking"> 
+<Figcaption> STOP! </figcaption>
+</figure>
+
+<footer>
+<p>Da un'idea di un ex fumatore</p>
+</footer>
+</body>
+</html>
